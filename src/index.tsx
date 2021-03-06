@@ -4,6 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+const ids: string = "1";
+const names: string = "John";
+const email: string = "John@gmail.com";
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
